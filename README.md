@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kushal Rana</h1>
-<h3 align="center">A passionate Artificial Intelligence Enthusiast (Data Science, ML, Computer vision, NLP, LLM.) from India</h3>
+<h3 align="center">A passionate Artificial Intelligence Enthusiast (Data Science, ML, Computer Vision, NLP, LLM.) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalranaai&label=Profile%20views&color=0e75b6&style=flat" alt="kushalranaai" /> </p>
 
-- 🔭 I’m currently working on [Text summarization Project](https://github.com/KushalranaAI/Text-summarization-project)
+- 🔭 I’m currently working on [Chest cancer Deep learning project](https://github.com/KushalranaAI/chest-cancer-DL-project)
 
-- 🌱 I’m currently learning **ML flow, Dagshub, LLM, Deep learning, API development, System design**
+- 🌱 I’m currently learning **ML flow, Dagshub, LLM, Deep learning, API design&development, System design**
 
-- 🤝 I’m looking for help with **Chatbot development**
+- 🤝 I’m looking for help with **Open source contribution guide**
 
 - 👨‍💻 All of my projects are available at [https://kushalranaai.github.io](https://kushalranaai.github.io)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kushalrana448@gmail.com**
 
-- ⚡ Fun fact **I am learner**
+- ⚡ Fun fact **I am Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
