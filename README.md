@@ -1,26 +1,38 @@
-<h1 align="center">Hi 👋, I'm Kushal Rana</h1>
-<h3 align="center">A passionate Artificial Intelligence Enthusiast (Data Science, ML, Computer Vision, NLP, LLM.) from India</h3>
+<h1 align="center">Hi, I'm Kushal Rana 👋</h1>
+<p align="center"><b>AI Engineer</b> · Generative AI · Agentic Systems · Machine Learning · Backend Architecture</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalranaai&label=Profile%20views&color=0e75b6&style=flat" alt="kushalranaai" /> </p>
-
-- 🔭 I’m currently working on [Chest cancer Deep learning project](https://github.com/KushalranaAI/chest-cancer-DL-project)
-
-- 🌱 I’m currently learning **ML flow, Dagshub, LLM, Deep learning, API design&development, System design**
-
-- 🤝 I’m looking for help with **Open source contribution guide**
-
-- 👨‍💻 All of my projects are available at [https://kushalranaai.github.io](https://kushalranaai.github.io)
-
-- 💬 Ask me about **Machine learning, Deep learning, CI/CD pipeline, LLM, NLP, API (Flask, Django, FastAPI)**
-
-- 📫 How to reach me **kushalrana448@gmail.com**
-
-- ⚡ Fun fact **I am Engineer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kushal-rana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kushal-rana/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://kushalranaai.github.io"><img src="https://img.shields.io/badge/Portfolio-kushalranaai.github.io-8b7bff?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kushal-rana"><img src="https://img.shields.io/badge/LinkedIn-kushal--rana-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/KushalranaAI"><img src="https://img.shields.io/badge/X-@KushalranaAI-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://kushalrana448.medium.com/"><img src="https://img.shields.io/badge/Medium-blog-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.youtube.com/@naaku-o2x"><img src="https://img.shields.io/badge/YouTube-channel-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a><br> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I build **production AI systems**: agentic RAG, LLM orchestration, LLMOps and ML pipelines, owned from architecture
+through deployment.
+
+### 🔭 Now: SDE II at Aviara Labs
+- **AI Revenue Management System.** Architected an ML pricing platform (multi-tenant SaaS) that runs across **~70 hotels**, scaling toward 200.
+- **COVA.** Enterprise agentic AI: hybrid retrieval, tool calling, specialised agents and memory, with tenant isolation and permission-aware access.
+- **Aviara Eye.** LLM observability and prompt management on self-hosted Langfuse for every production generative AI app.
+
+### 🛠️ Open source I'm building
+| Project | What it is |
+|---|---|
+| [**All-in-One RAG Tutorials**](https://github.com/KushalranaAI/All-in-One-RAG_tutorials) | 30 days from embeddings to multi-agent systems on MCP, plus 15 projects |
+| [**System Learn**](https://github.com/KushalranaAI/system_learn) | learn system design on a live simulator: break things, watch p99 and cost react |
+| [**Machine Learning 1 → 100**](https://github.com/KushalranaAI/machine-learning-1-to-100) | all of classical ML from the maths, from scratch in NumPy and C++, with interactive visualisers |
+| [**Python Projects**](https://github.com/KushalranaAI/Python-Projects) | 20 end-to-end OOP projects with Flask UIs, tests and build guides |
+| [**OOP in Python, C++ & JS**](https://github.com/KushalranaAI/OOP-in-Python) | how objects really work, in three languages, with step-through memory traces |
+
+### 🧰 Stack
+**GenAI:** LLMs · RAG · agents & multi-agent · MCP · tool calling · hybrid search · LangChain · LlamaIndex · vector DBs<br />
+**ML:** PyTorch · TensorFlow · computer vision · NLP · feature engineering · MLflow · DVC<br />
+**LLMOps:** Langfuse · LangSmith · tracing · prompt management · LLM evaluation<br />
+**Backend & infra:** Python · FastAPI · Django · PostgreSQL · MongoDB · Redis · Docker · Kubernetes · Azure · GitHub Actions
+
+### 🏅 Certifications
+AWS Certified Machine Learning Engineer, Associate · Machine Learning Specialization (DeepLearning.AI) · System Design Masterclass · Docker & Kubernetes
+
+📫 **kushalrana448@gmail.com** · Ask me about agentic systems, RAG, LLMOps or taking ML to production.
